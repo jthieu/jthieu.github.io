@@ -20,6 +20,7 @@
 
 title: James Thieu - My Creations & Adventures!
 email: jamesthieu23@gmail.com
+author: James Thieu
 description: >- # this means to ignore newlines until "baseurl:"
   The creations and adventures of a Vietnamese-American beatboxer, traveller, techie, and photographer!
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -30,6 +31,10 @@ linkedin_username: james-thieu
 instagram_username: james.thieu
 
 timezone: America/Los_Angeles
+
+avatar: "/assets/images/JamesThieu_gradPhoto.jpg"
+
+link-tags: true
 
 # Build settings
 theme: minima
