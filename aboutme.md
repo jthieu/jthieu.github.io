@@ -4,6 +4,8 @@ title: About Me
 subtitle: Get to Know Me Better!
 ---
 
+Coming Soon!
+
 
 
 <!-- My name is Inigo Montoya. I have the following qualities:
