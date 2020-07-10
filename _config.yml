@@ -29,6 +29,8 @@ github_username:  jthieu
 linkedin_username: james-thieu
 instagram_username: james.thieu
 
+timezone: America/Los_Angeles
+
 # Build settings
 theme: minima
 plugins:
