@@ -37,7 +37,8 @@ avatar: "/assets/images/JamesThieu_gradPhoto.jpg"
 link-tags: true
 
 # Build settings
-theme: minima
+# theme: minima
+theme: beautiful-jekyll-theme
 plugins:
   - jekyll-feed
 
