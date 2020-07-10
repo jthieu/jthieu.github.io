@@ -19,7 +19,7 @@ SOFTWARE DEVELOPMENT INTERN
 
 JUNE 2019 – SEPTEMBER 2019
 
-As part of a DevOps team, I helped build a new feature for AWS enterprise clients to aggregate their license usage metrics.
+As part of a DevOps team, I helped build a new feature for AWS enterprise clients to aggregate their license usage metrics. I integrated my feature with existing testing pipelines and wrote extensive tests to ensure functionality.
 
 ### Infosys
 
