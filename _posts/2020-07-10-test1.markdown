@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Testing!"
-date:   2020-07-10 00:01:37 -0700
-categories: jekyll update
----
-
-TESTING 12
