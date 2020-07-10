@@ -1,31 +1,32 @@
 ---
 layout: page
 title: Resume
-permalink: /resume/
+subtitle: Why You'd Want Me On Your Team
 ---
 ## Experience
 
 ### Microsoft
 
-PROGRAM MANAGER INTERN
+Program Manager Intern
 
-STARTING JUNE 2020!
+June 2019 - Current
 
-Coming soon!
+Coming Soon!
 
 ### Amazon Web Services
 
-SOFTWARE DEVELOPMENT INTERN
+Software Development Engineer Intern
 
-JUNE 2019 – SEPTEMBER 2019
+June 2019 - September 2019
 
-As part of a DevOps team, I helped build a new feature for AWS enterprise clients to aggregate their license usage metrics. I integrated my feature with existing testing pipelines and wrote extensive tests to ensure functionality.
+As part of a DevOps team, I helped build a new feature for AWS enterprise clients to aggregate their license usage metrics.
+I integrated my feature into the existing testing pipeline and wrote extensive test cases for it.
 
 ### Infosys
 
-SOFTWARE ENGINEERING INTERN
+Software Engineering Intern
 
-JUNE 2018 – AUGUST 2018
+June 2018 - August 2018
 
 I worked on a project to take Java source code from small-to-mid size clients, automatically parse it via ANTLR, and determine microservice candidates for clients to modernize their codebases. I also worked with a small team of six to develop a frontend UI for clients to interact with the microservice recommender software.
 
@@ -33,9 +34,9 @@ After the conclusion of my internship, the microservice recommender was pitched 
 
 ### Teens Exploring Technology
 
-FELLOW
+Fellow
 
-MAY 2017 – AUGUST 2017
+May 2017 - August 2017
 
 As a TXT fellow, I served as both instructor and mentor for the Summer Coding Leadership Academy. Over the course of 8 weeks, we took a cohort of under-resourced young men of color from Los Angeles through the process of building a startup.
 
@@ -47,26 +48,18 @@ After I left, my old team went on to win a $5,000 grant to continue developing t
 
 ### Stanford Vietnamese Student Association
 
-Culture Night Director, 2017-2020
-
-Coming soon!
-
 ### Stanford Raagapella
-
-President, 2017-2018
-
-Coming soon!
 
 ## Education
 
-### MS Computer Science
+### M.S. Computer Science
 
 Class of 2021
-
 Stanford University
+Concentration: Information Systems + Analysis
 
-### BS Electrical Engineering
+### B.S. Electrical Engineering
 
 Class of 2020
-
 Stanford University
+Concentration: Hardware and Software

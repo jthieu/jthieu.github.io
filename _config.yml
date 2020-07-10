@@ -1,10 +1,10 @@
 # --- Basic options --- #
 
 # Name of website
-title: James Thieu's Adventures & Experiences
+title: James's Adventures & Creations!
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Documenting all the things I've seen and worked on in my life!
 
 # Your name to show in the footer
 author: James Thieu
@@ -13,10 +13,14 @@ author: James Thieu
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  # Resources:
+    # - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #   - Learn markdown: "https://www.markdowntutorial.com/"
+  Resume: "resume"
+  Photography: "photography"
+  Cooking: "cooking"
+    - Mains: "mains"
+    - Desserts: "desserts"
 
 # --- Logo --- #
 
@@ -39,18 +43,18 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "jamesthieu23@gmail.com"
-  facebook: jamesthieu
+  facebook: james.thieu
   github: jthieu
   # twitter: daattali
   rss: true
 #  reddit: yourname
- linkedin: JamesThieu
+ linkedin: james-thieu
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
  instagram: james.thieu
 #  youtube: user/deanat78
- spotify: James Thieu
+#  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
