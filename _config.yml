@@ -1,21 +1,17 @@
 # --- Basic options --- #
 
 # Name of website
-title: "James's Adventures & Creations!"
+title: James's Adventures and Creations
 
 # Short description of your site
-description: Documenting all the things I've seen and worked on in my life!
+description: Documenting all the things I've seen and worked on in my life
 
 # Your name to show in the footer
 author: James Thieu
 
 # --- List of links in the navigation bar --- #
-
 navbar-links:
   About Me: "aboutme"
-  # Resources:
-    # - Beautiful Jekyll: "https://beautifuljekyll.com"
-  #   - Learn markdown: "https://www.markdowntutorial.com/"
   Resume: "resume"
   Photography: "photography"
   Cooking: "cooking"
@@ -46,11 +42,11 @@ social-network-links:
   # twitter: daattali
   rss: true
 #  reddit: yourname
- linkedin: james-thieu
+  linkedin: james-thieu
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
- instagram: james.thieu
+  instagram: james.thieu
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
